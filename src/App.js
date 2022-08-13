@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p> */}
         <p>
-          This is home page Amplify Testing.
+          This is home page React JS deployment through Amplify.
         </p>
         {/* <a
           className="App-link"
