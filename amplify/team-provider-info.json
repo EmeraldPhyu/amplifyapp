@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyappb47be1a9": {}
+      },
+      "function": {
+        "amplifyappprofileUpdateLambda": {
+          "deploymentBucketName": "amplify-amplifyb63fa8d5c4e24-staging-145122-deployment",
+          "s3Key": "amplify-builds/amplifyappprofileUpdateLambda-LambdaLayerVersion4bd7661b-build.zip"
+        }
       }
     }
   }
